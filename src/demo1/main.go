@@ -17,4 +17,5 @@ func main() {
 	loop6()
 	oddeven()
 	days()
+	whatday(7)
 }
