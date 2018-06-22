@@ -9,4 +9,7 @@ func main() {
 	z := Boolean()
 	fmt.Println(z)
 	showvar()
+	loop1()
+	loop2()
+	loop3()
 }
