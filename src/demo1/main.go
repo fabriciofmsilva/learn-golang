@@ -18,4 +18,6 @@ func main() {
 	oddeven()
 	days()
 	whatday(7)
+	arr1()
+	arr2()
 }
