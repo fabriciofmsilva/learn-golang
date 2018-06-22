@@ -16,4 +16,5 @@ func main() {
 	loop5()
 	loop6()
 	oddeven()
+	days()
 }
