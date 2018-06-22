@@ -15,4 +15,5 @@ func main() {
 	loop4()
 	loop5()
 	loop6()
+	oddeven()
 }
