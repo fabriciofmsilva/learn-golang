@@ -12,4 +12,6 @@ func main() {
 	loop1()
 	loop2()
 	loop3()
+	loop4()
+	loop5()
 }

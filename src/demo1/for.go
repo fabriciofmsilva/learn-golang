@@ -26,3 +26,21 @@ func loop3() {
 		fmt.Println(i)
 	}
 }
+
+func loop4() {
+	for i := 1; i <= 9; i++ {
+		for j := 1; j <= i; j++ {
+			fmt.Print("* ")
+		}
+		fmt.Println()
+	}
+}
+
+func loop5() {
+	for i := 9; i >= 1; i-- {
+		for j := 1; j <= i; j++ {
+			fmt.Print("* ")
+		}
+		fmt.Println()
+	}
+}
