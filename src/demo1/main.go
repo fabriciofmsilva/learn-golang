@@ -14,4 +14,5 @@ func main() {
 	loop3()
 	loop4()
 	loop5()
+	loop6()
 }

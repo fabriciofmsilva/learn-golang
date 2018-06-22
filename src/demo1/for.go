@@ -44,3 +44,19 @@ func loop5() {
 		fmt.Println()
 	}
 }
+
+func loop6() {
+	for i := 1; i <= 11; i++ {
+		if i < 7 {
+			for j := 1; j <= i; j++ {
+				fmt.Print("* ")
+			}
+		} else {
+			x := (i - 6) * 2
+			for j := i; j > x; j-- {
+				fmt.Print("* ")
+			}
+		}
+		fmt.Println()
+	}
+}
