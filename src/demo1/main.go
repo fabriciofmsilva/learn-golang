@@ -22,4 +22,6 @@ func main() {
 	arr2()
 	matrix()
 	imatrix(4)
+	slice1()
+	slice2()
 }
