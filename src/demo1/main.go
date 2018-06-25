@@ -20,4 +20,6 @@ func main() {
 	whatday(7)
 	arr1()
 	arr2()
+	matrix()
+	imatrix(4)
 }
