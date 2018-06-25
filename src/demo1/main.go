@@ -24,4 +24,5 @@ func main() {
 	imatrix(4)
 	slice1()
 	slice2()
+	slice3()
 }
