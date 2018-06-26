@@ -14,3 +14,16 @@ func fact(n int) int {
 		return n * fact(n-1)
 	}
 }
+
+// Recursion Pattern
+func recursionpattern(n int) {
+	if n == 1 {
+		fmt.Println("*")
+	} else {
+		for i := 1; i <= n; i++ {
+			fmt.Print("* ")
+		}
+		fmt.Println()
+		recursionpattern(n - 1)
+	}
+}
