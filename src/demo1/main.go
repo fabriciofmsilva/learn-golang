@@ -32,5 +32,6 @@ func main() {
 	// recursionpattern(5)
 	// sortdemo()
 	// methoddemo()
-	interfacedemo()
+	// interfacedemo()
+	goroutinedemo()
 }
