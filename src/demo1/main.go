@@ -30,6 +30,7 @@ func main() {
 	// variadic()
 	// recursion()
 	// recursionpattern(5)
-  // sortdemo()
-  methoddemo()
+	// sortdemo()
+	// methoddemo()
+	interfacedemo()
 }
